@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-###### 2. img태그에 alt값 속성 넣기
+###### 2. img태그에 alt값 속성 넣기.
 why?! 접근성을 높이기 위해서
 <br><br>
     example)
@@ -34,7 +34,7 @@ why?! 접근성을 높이기 위해서
 
 
 
-###### 3. Sectioning element 태그 내부에 속성값을 적자
+###### 3. Sectioning element 태그 내부에 속성값을 적자.
 why?! 접근성을 높이기 위해서
 
    <br><br>
