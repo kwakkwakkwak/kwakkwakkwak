@@ -16,6 +16,6 @@ redirect_from:
 ```yml
 ---
 type: image
-featimg: 2017-10-10-Spring Setting/1.png
+featimg: 2017-10-10-Spring_Setting/1.png
 ---
 ```
